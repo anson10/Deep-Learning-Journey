@@ -29,7 +29,7 @@ Implementation of a neural network to classify fashion items from the MNIST data
 - **Folder**: `mnist-image-classification`
 - **Description**: Trains a neural network to classify images of fashion items.
 - **Technologies**: TensorFlow, Keras, Python
-- **Notebook**: [image-classifer.ipynb](mnist-image-classification/image-classifier.ipynb)
+- **Notebook**: [image-classifer.ipynb](mnist-image-classification/image-classifer.ipynb)
 
 
 ## Installation
