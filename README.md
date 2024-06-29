@@ -31,7 +31,7 @@ To set up the environment and run the notebooks locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/deep-learning-journey.git
+    git clone https://github.com/anson10/deep-learning-journey.git
     cd deep-learning-journey
     ```
 
