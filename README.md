@@ -24,6 +24,13 @@ Implementation of a neural network to classify handwritten digits from the MNIST
 - **Technologies**: TensorFlow, Keras, Python
 - **Notebook**: [MNIST_Digit_Classification.ipynb](mnist-digit-classification/MNIST_Digit_Classification.ipynb)
 
+### 2. MNIST Image Classification
+Implementation of a neural network to classify fashion items from the MNIST dataset using TensorFlow and Keras.
+- **Folder**: `mnist-image-classification`
+- **Description**: Trains a neural network to classify images of fashion items.
+- **Technologies**: TensorFlow, Keras, Python
+- **Notebook**: [image-classifier.ipynb](mnist-digit-classification/image-classifier.ipynb)
+
 
 ## Installation
 
