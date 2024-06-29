@@ -24,26 +24,6 @@ Implementation of a neural network to classify handwritten digits from the MNIST
 - **Technologies**: TensorFlow, Keras, Python
 - **Notebook**: [MNIST_Digit_Classification.ipynb](mnist-digit-classification/MNIST_Digit_Classification.ipynb)
 
-### 2. Image Classification with CNNs
-Implementation of Convolutional Neural Networks (CNNs) for image classification on the CIFAR-10 dataset.
-- **Folder**: `image-classification-cnn`
-- **Description**: Trains CNN models to classify images into 10 different categories.
-- **Technologies**: TensorFlow, Keras, Python
-- **Notebook**: [Image_Classification_CNN.ipynb](image-classification-cnn/Image_Classification_CNN.ipynb)
-
-### 3. Sentiment Analysis with RNNs
-Implementation of Recurrent Neural Networks (RNNs) for sentiment analysis on movie reviews.
-- **Folder**: `sentiment-analysis-rnn`
-- **Description**: Trains RNN models to classify the sentiment of movie reviews.
-- **Technologies**: TensorFlow, Keras, Python
-- **Notebook**: [Sentiment_Analysis_RNN.ipynb](sentiment-analysis-rnn/Sentiment_Analysis_RNN.ipynb)
-
-### 4. Transfer Learning with Pre-trained Models
-Exploration of transfer learning techniques using pre-trained models like VGG16 and ResNet50.
-- **Folder**: `transfer-learning`
-- **Description**: Uses pre-trained models to perform transfer learning on custom datasets.
-- **Technologies**: TensorFlow, Keras, Python
-- **Notebook**: [Transfer_Learning.ipynb](transfer-learning/Transfer_Learning.ipynb)
 
 ## Installation
 
