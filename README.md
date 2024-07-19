@@ -31,6 +31,13 @@ Implementation of a neural network to classify fashion items from the MNIST data
 - **Technologies**: TensorFlow, Keras, Python
 - **Notebook**: [image-classifer.ipynb](mnist-image-classification/image-classifer.ipynb)
 
+### 3. Loading Dataset using tensorflow API
+Exploring `tf.data` API for creating efficient and scalable data input pipelines, including functions for reading, transforming, shuffling, batching, and prefetching datasets.
+- **Folder**: `Loading-the-data-using-tf`
+- **Description**: Going through a tf.data API.
+- **Technologies**: TensorFlow, Keras, Python
+- **Notebook**: [Loading_data_with_tf.ipynb](Loading-the-data-using-tf/Loading_data_with_tf.ipynb)
+
 
 ## Installation
 
