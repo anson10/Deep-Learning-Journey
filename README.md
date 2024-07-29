@@ -38,6 +38,12 @@ Exploring `tf.data` API for creating efficient and scalable data input pipelines
 - **Technologies**: TensorFlow, Keras, Python
 - **Notebook**: [Loading_data_with_tf.ipynb](Loading-the-data-using-tf/Loading_data_with_tf.ipynb)
 
+### 4. CNN Architectures
+Exploring and implementing various CNN architectures using keras library
+- **Folder**: `CNN-Architectures`
+- **Description**: Implementing various types of CNN architectures.
+- **Technologies**: TensorFlow, Keras, Python, numpy
+
 
 ## Installation
 
