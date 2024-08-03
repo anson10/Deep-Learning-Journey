@@ -27,7 +27,6 @@ Convolutional Neural Networks (CNNs) have been instrumental in advancing the fie
   - Input: 224x224 RGB image.
   - Layers: 16-19 layers deep with small 3x3 filters, followed by Fully Connected layers.
 - **Key Features:** Demonstrated the importance of depth in CNNs.
-- ![VGGNet Architecture](https://www.researchgate.net/profile/Timea-Bezdan/publication/333242381/figure/fig2/AS:760979981860866@1558443174380/VGGNet-architecture-19.ppm)
 
 ## 4. GoogLeNet (Inception v1) (2014)
 - **Developed by:** Christian Szegedy et al.
@@ -54,7 +53,6 @@ Convolutional Neural Networks (CNNs) have been instrumental in advancing the fie
   - Input: 299x299 RGB image.
   - Layers: Depthwise separable convolutions with residual connections.
 - **Key Features:** Extreme version of Inception, using depthwise separable convolutions.
-- ![Xception Architecture](https://www.researchgate.net/profile/Rodrigo-Salas-5/publication/357973065/figure/fig2/AS:1127438167879680@1645813614280/Depthwise-separable-convolution-of-the-MobileNet-which-factorizes-the-convolution-into.ppm)
 
 ## 8. SENet (2018)
 - **Developed by:** Jie Hu et al.
