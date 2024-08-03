@@ -44,6 +44,12 @@ Exploring and implementing various CNN architectures using keras library
 - **Description**: Implementing various types of CNN architectures.
 - **Technologies**: TensorFlow, Keras, Python, numpy
 
+### 5. Implementing CNN from scratch
+Tried to implement the CNN model from scratch to understand it better.
+- **Folder**: `Implementing-CNN-from-Scratch`
+- **Description**: Trains a convolutinonal neural network to classify images or any pictorial data.
+- **Technologies**: numpy
+- **Notebook**: [CNN_test.ipynb](Implementing-CNN-from-scratch/CNN_test.ipynb)
 
 ## Installation
 
