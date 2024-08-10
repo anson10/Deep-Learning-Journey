@@ -51,6 +51,13 @@ Tried to implement the CNN model from scratch to understand it better.
 - **Technologies**: numpy
 - **Notebook**: [CNN_test.ipynb](Implementing-CNN-from-scratch/CNN_test.ipynb)
 
+### 5. Solving GTSRB dataset using CNN model
+Developed a Convolutional Neural Network (CNN) model to classify German traffic signs using the GTSRB dataset.
+- **Folder**: `GTSRB-German Traffic Sign Recognition Benchmark`
+- **Description**: Trains a Convolutional Neural Network to classify traffic signs into their respective categories using the GTSRB dataset.
+- **Technologies**: numpy, tensorflow, flask, pandas,
+- **Notebook**: [GTSRB.ipynb](GTSRB-German Traffic Sign Recognition Benchmark/GTSRB.ipynb)
+
 ## Installation
 
 To set up the environment and run the notebooks locally, follow these steps:
