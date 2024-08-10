@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction Result</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #2c3e50;
+            color: #ecf0f1;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            margin: 20px;
+        }
+        img {
+            max-width: 80%; /* Adjust the width as needed */
+            height: auto;
+            border: 2px solid #ecf0f1;
+            border-radius: 5px;
+        }
+        .prediction {
+            margin-top: 20px;
+            font-size: 1.2em;
+            color: #1abc9c;
+        }
+        .back-button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 1em;
+            color: #ecf0f1;
+            background-color: #1abc9c;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .back-button:hover {
+            background-color: #16a085;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Prediction Result</h1>
+        <!-- Correctly reference the image URL -->
+        <img src="{{ url_for('static', filename=image_url) }}" alt="Uploaded Image">
+        <div class="prediction">{{ prediction }}</div>
+        <!-- Back to index button -->
+        <a href="{{ url_for('index') }}">
+            <button class="back-button">Back to Home</button>
+        </a>
+    </div>
+</body>
+</html>
