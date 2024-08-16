@@ -58,6 +58,13 @@ Developed a Convolutional Neural Network (CNN) model to classify German traffic 
 - **Technologies**: numpy, tensorflow, flask, pandas,
 - **Notebook**: [GTSRB.ipynb](GTSRB_German-Traffic-Sign-Classification/GTSRB.ipynb)
 
+### 6. Cats vs. Dogs Classification using CNN
+A CNN model that can classify the images of cats and dogs
+- **Folder**: `cats-and-dogs`
+- **Description**: Trains a Convolutional Neural Network to classify dogs and cats.
+- **Technologies**: numpy, tensorflow, PIL, matplotlib
+- **Notebook**: [cats-and-dogs.ipynb](cats-and-dogs/cats-and-dogs.ipynb)
+
 ## Installation
 
 To set up the environment and run the notebooks locally, follow these steps:
