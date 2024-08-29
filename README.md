@@ -65,6 +65,14 @@ A CNN model that can classify the images of cats and dogs
 - **Technologies**: numpy, tensorflow, PIL, matplotlib
 - **Notebook**: [cats-and-dogs.ipynb](cats-and-dogs/cats-and-dogs.ipynb)
 
+### 7. Vision Transformer (ViT) from Scratch
+A Vision Transformer model built from scratch for image classification.
+- **Folder**: `vit-from-scratch`
+- **Description**: Implements a Vision Transformer model from scratch for image classification tasks. The project includes data preprocessing, model training, and evaluation on benchmark datasets.
+- **Technologies**: numpy, tensorflow, matplotlib, scikit-learn, pytorch
+- **Notebook**: [ViT.ipynb](vit-from-scratch/ViT.ipynb)
+
+
 ## Installation
 
 To set up the environment and run the notebooks locally, follow these steps:
