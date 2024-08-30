@@ -70,8 +70,8 @@ A Vision Transformer model built from scratch for image classification.
 - **Folder**: `vit-from-scratch`
 - **Description**: Implements a Vision Transformer model from scratch for image classification tasks. The project includes data preprocessing, model training, and evaluation on benchmark datasets.
 - **Technologies**: numpy, tensorflow, matplotlib, scikit-learn, pytorch
-- **Notebook**: [ViT.ipynb](vit-from-scratch/ViT.ipynb)
-
+- **Pytorch Notebook**: [ViT.ipynb](vit-from-scratch/ViT.ipynb)
+- **TensorFlow Notebook**: [ViT-tf.ipynb](vit-from-scratch/ViT-tf.ipynb)
 
 ## Installation
 
