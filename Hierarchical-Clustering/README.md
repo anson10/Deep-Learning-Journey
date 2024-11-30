@@ -59,7 +59,7 @@ $$
 The distance between two clusters is the **maximum distance** between any two points in the clusters:
 
 $$
-d(C_1, C_2) = \max \{ d(a, b) \mid a \in C_1, b \in C_2 \}
+d(C_1, C_2) = \max\{ d(a, b) \mid a \in C_1, b \in C_2 \}
 $$
 
 - Results in compact, spherical clusters.
