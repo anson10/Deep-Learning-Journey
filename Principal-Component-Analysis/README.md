@@ -73,7 +73,6 @@ $$
 ---
 
 ## **Example Visualization**
-
 - The **first principal component (PC1)** is the direction of maximum variance in the data.
 - The **second principal component (PC2)** is orthogonal to PC1 and captures the second highest variance.
 
@@ -96,7 +95,3 @@ For $k < n$, PCA reduces the dimensions while retaining most of the variability.
    \text{Total Variance} = \sum_{i=1}^n \lambda_i
    $$
 3. PCA assumes that the directions of maximum variance are the most important.
-
----
-
-By applying PCA, you can effectively simplify datasets, visualize patterns, and improve the performance of machine learning algorithms.
