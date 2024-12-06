@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prediction App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Sales Prediction App</h1>
+        <form id="prediction-form">
+            <label for="tv">TV Advertising Spend:</label>
+            <input type="number" id="tv" name="tv" step="0.01" required>
+            <br>
+            <label for="radio">Radio Advertising Spend:</label>
+            <input type="number" id="radio" name="radio" step="0.01" required>
+            <br>
+            <label for="newspaper">Newspaper Advertising Spend:</label>
+            <input type="number" id="newspaper" name="newspaper" step="0.01" required>
+            <br>
+            <button type="submit">Get Prediction</button>
+        </form>
+        
+        <!-- Beautified Output Section -->
+        <div id="output" class="output-container">
+            <p id="result">Your prediction will appear here.</p>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='js/script.js') }}" defer></script>
+</body>
+</html>
