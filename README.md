@@ -73,6 +73,13 @@ A Vision Transformer model built from scratch for image classification.
 - **Pytorch Notebook**: [ViT.ipynb](vit-from-scratch/ViT.ipynb)
 - **TensorFlow Notebook**: [ViT-tf.ipynb](vit-from-scratch/ViT-tf.ipynb)
 
+### 8. Fake News Classifier using LSTM
+A LSTM Model built for classifiying whether the article is real or fake
+- **Folder**: `Fake-News-Classifier`
+- **Description**: mplements a Long Short-Term Memory (LSTM) deep learning model to classify news articles as real or fake. The project involves text preprocessing, tokenization, vectorization, model training, and evaluation.
+- **Technologies**: TensorFlow, pandas, scikit-learn, NLTK
+- **Notebook**: [fake-news.ipynb](Fake-News-Classifier/fake-news-2.ipynb)
+
 ## Installation
 
 To set up the environment and run the notebooks locally, follow these steps:
