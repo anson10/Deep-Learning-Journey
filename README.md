@@ -78,7 +78,8 @@ A LSTM Model built for classifiying whether the article is real or fake
 - **Folder**: `Fake-News-Classifier`
 - **Description**: mplements a Long Short-Term Memory (LSTM) deep learning model to classify news articles as real or fake. The project involves text preprocessing, tokenization, vectorization, model training, and evaluation.
 - **Technologies**: TensorFlow, pandas, scikit-learn, NLTK
-- **Notebook**: [fake-news.ipynb](Fake-News-Classifier/fake-news-2.ipynb)
+- **Notebook**: [fake-news.ipynb](Fake-News-Classifier/kaggle-Fake-News-Classifier/fake-news-2.ipynb
+)
 
 ## Installation
 
