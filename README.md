@@ -76,9 +76,17 @@ A Vision Transformer model built from scratch for image classification.
 ### 8. Fake News Classifier using LSTM
 A LSTM Model built for classifiying whether the article is real or fake
 - **Folder**: `Fake-News-Classifier`
-- **Description**: mplements a Long Short-Term Memory (LSTM) deep learning model to classify news articles as real or fake. The project involves text preprocessing, tokenization, vectorization, model training, and evaluation.
+- **Description**: Implemented a Long Short-Term Memory (LSTM) deep learning model to classify news articles as real or fake. The project involves text preprocessing, tokenization, vectorization, model training, and evaluation.
 - **Technologies**: TensorFlow, pandas, scikit-learn, NLTK
 - **Notebook**: [fake-news.ipynb](Fake-News-Classifier/kaggle-Fake-News-Classifier/fake-news-2.ipynb
+)
+
+### 9. Crypto Currency Price Prediction
+A LSTM Model built for predict the price of cryptocurrency using historical data
+- **Folder**: `CryptoCurrency-Prediction`
+- **Description**: Built a deep learning model for Crypto Price Prediction using LSTM networks to predict future cryptocurrency prices based on historical data and market trends
+- **Technologies**: TensorFlow, pandas, scikit-learn,LSTM
+- **Notebook**: [crypto-pred.ipynb](CryptoCurrency-Prediction/crypto-pred.ipynb
 )
 
 ## Installation
