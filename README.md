@@ -85,7 +85,7 @@ A LSTM Model built for classifiying whether the article is real or fake
 A LSTM Model built for predict the price of cryptocurrency using historical data
 - **Folder**: `CryptoCurrency-Prediction`
 - **Description**: Built a deep learning model for Crypto Price Prediction using LSTM networks to predict future cryptocurrency prices based on historical data and market trends
-- **Technologies**: TensorFlow, pandas, scikit-learn,LSTM
+- **Technologies**: TensorFlow, pandas, scikit-learn,LSTM, numpy
 - **Notebook**: [crypto-pred.ipynb](CryptoCurrency-Prediction/crypto-pred.ipynb
 )
 
