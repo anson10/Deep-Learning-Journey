@@ -96,7 +96,6 @@ You can download a sample dataset from [here](https://www.manythings.org/anki/).
 ## References
 - [Sequence to Sequence Learning with Neural Networks](https://arxiv.org/abs/1409.3215)
 - [Attention Is All You Need](https://arxiv.org/abs/1706.03762)
-- [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
 
 ---
 
