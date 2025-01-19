@@ -96,7 +96,7 @@ A seq2seq model built for predict the translation of words from English to Germa
 - **Technologies**: TensorFlow, pandas, keras, LSTM, numpy
 - **Notebook**: [seq-to-seq.ipynb](Seq-to-Seq-model/seq-to-seq.ipynb)
 
-)
+
 ## Installation
 
 To set up the environment and run the notebooks locally, follow these steps:
