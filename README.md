@@ -86,9 +86,17 @@ A LSTM Model built for predict the price of cryptocurrency using historical data
 - **Folder**: `CryptoCurrency-Prediction`
 - **Description**: Built a deep learning model for Crypto Price Prediction using LSTM networks to predict future cryptocurrency prices based on historical data and market trends
 - **Technologies**: TensorFlow, pandas, scikit-learn,LSTM, numpy
-- **Notebook**: [crypto-pred.ipynb](CryptoCurrency-Prediction/crypto-pred.ipynb
+- **Notebook**: [crypto-pred.ipynb](CryptoCurrency-Prediction/crypto-pred.ipynb)
 )
 
+### 10. Character-Level Recurrent Sequence-to-Sequence Model (Eng -> Deu words translation)
+A seq2seq model built for predict the translation of words from English to German
+- **Folder**: Seq-to-Seq-model`
+- **Description**: Built a deep learning model for character level translation
+- **Technologies**: TensorFlow, pandas, keras, LSTM, numpy
+- **Notebook**: [seq-to-seq.ipynb](Seq-to-Seq-model/seq-to-seq.ipynb)
+
+)
 ## Installation
 
 To set up the environment and run the notebooks locally, follow these steps:
